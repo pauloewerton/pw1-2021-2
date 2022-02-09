@@ -4,7 +4,7 @@
 __pycache__
 
 # Env
-.env
+.venv
 myvenv/
 venv/
 .virtualenv/
